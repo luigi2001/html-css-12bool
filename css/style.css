@@ -1,7 +1,7 @@
 .box{
     min-height: 100px;
     background-color: pink;
-    border: 1px solid black;
+    border: 2px solid black;
     text-align: center;
     line-height: 100px;
 }
